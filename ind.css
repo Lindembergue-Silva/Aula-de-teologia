@@ -118,3 +118,15 @@ button:hover{
    -o-animation: btn-pisca .9s linear infinite;
    animation: btn-pisca .9s linear infinite;
 }
+
+@media(max-width: 600px){
+	p{
+	width: 80%;
+	background:black;
+	padding: 1em;
+	height: 1em;
+	color: white;
+	text-align: center; 
+	font-size: 0.5em;
+	}
+}
