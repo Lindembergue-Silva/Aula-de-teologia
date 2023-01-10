@@ -119,13 +119,4 @@ button:hover{
    animation: btn-pisca .9s linear infinite;
 }
 
-@media(max-width: 600px){
-	p{
-	width: 50%;
-	height: 10%;
-	position: fixed;
-	top:0;
-	left:0;
-	
-	}
-}
+
