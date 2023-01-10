@@ -121,12 +121,11 @@ button:hover{
 
 @media(max-width: 600px){
 	p{
-	width: 80%;
-	background:black;
-	padding: 1em;
-	height: 1em;
-	color: white;
-	text-align: center; 
-	font-size: 0.5em;
+	width: 50%;
+	height: 10%;
+	position: fixed;
+	top:0;
+	left:0;
+	
 	}
 }
